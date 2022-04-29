@@ -1,7 +1,7 @@
 ---
 title: Liu Bing
 role: "Professor "
-avatar_filename: liu-bing.jpg
+avatar_filename: avatar.jpg
 bio: "My research interests include  brain development , brain diseases "
 interests:
   - Brain development
