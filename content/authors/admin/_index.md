@@ -2,8 +2,7 @@
 title: Liu Bing
 role: "Professor "
 avatar_filename: liu-bing.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include  brain development , brain diseases "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -11,37 +10,29 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:bing.liu@bnu.edu.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: Beijing Normal University
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Pattern Recognition and Intelligent System
+      institution: Institute of Automation, Chinese Academy of Sciences
+      year: 2007
+    - course: B.E. in Automation
+      institution: Civil Aviation University of China
+      year: 2002
 email: ""
 superuser: true
 user_groups:
   - Researchers
 highlight_name: false
 ---
+The research interests of Prof. Bing Liu’s Lab mainly focus on the two topics :
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ (1) Clinical translation of multi-modal neuroimaging: here we attempt to build clinical useful biomarkers for brain disorders by integrating multi-modal neuroimaging and other omics data, and using novel artificial intelligence technologies. The objective of these studies is to identify quantitative, individualized, generalized and clinically useful imaging biomarkers for the precision diagnosis and personalized treatment of brain disorders, especially for various psychiatric disorders.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+(2) Neuroscience translation of multi-modal data: By combing genome, transcriptome, multi-modal neuroimaging and other data, we attempt to study the heritability of brain networks, the connection between brain networks and genetic variations, to find key genes modulating hub brain regions and important brain connectivity, and finally to reveal the underlying genetic and neural mechanisms of the individual differences in human neurodevelopment, behaviors or brain disorders and to construct dynamic prediction models of individual performance. Our lab has published over 70 research papers in peer-reviewed journals, including Nature Medicine, Journal of Neuroscience, Schizophrenia Bulletin, Neuropsychopharmacology, NeuroImage etc.
