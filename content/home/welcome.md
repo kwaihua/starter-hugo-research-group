@@ -20,4 +20,5 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Liu Bing Research Group**  focus on **Clinical translation of multi-modal neuroimaging** and **Neuroscience translation of multi-modal data**.
+
