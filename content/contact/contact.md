@@ -18,8 +18,8 @@ content:
   email: bing.liu#bnu.edu.cn
   address:
     street: No.19, Xinjiekouwai 
-    city: Beijng
-    region: Haidian
+    city: Haidian
+    region: Beijng
     postcode: '100875'
     country: China
     country_code: CN
