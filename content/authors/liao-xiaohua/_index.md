@@ -1,17 +1,19 @@
 ---
 title: Liao Xiaohua
-role: MC of computer science
+role: M.D. of computer science
 avatar_filename: avatar
 social: []
 education:
   courses: []
 superuser: false
+organizations:
+  - name: Institute of Automation, Chinese Academy of Sciences
 education:
   courses:
-    - course: Ph.D. in Pattern Recognition and Intelligent System
+    - course:  M.D. in Computer Science
       institution: Institute of Automation, Chinese Academy of Sciences
-      year: 2007
-    - course: B.E. in Automation
+      year: 2019-2022
+    - course: B.E. in Weapons systems and launch project
       institution: Beijing Institute of Technology of China
       year: 2015-2019
 interests:
@@ -24,6 +26,4 @@ social:
     icon_pack: fas
     link: 'mailto:liaoxiaohua2019@ia.ac.cn'
 ---
-
-Neuroscience translation of multi-modal data: By combing genome, transcriptome, multi-modal neuroimaging and other data, we attempt to study the heritability of brain networks, the connection between brain networks and genetic variations, to find key genes modulating hub brain regions and important brain connectivity, and finally to reveal the underlying genetic and neural mechanisms of the individual differences in human neurodevelopment, behaviors or brain disorders and to construct dynamic prediction models of individual performance. Our lab has published over 70 research papers in peer-reviewed journals, including Nature Medicine, Journal of Neuroscience, Schizophrenia Bulletin, Neuropsychopharmacology, NeuroImage etc.
 

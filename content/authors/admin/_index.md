@@ -20,17 +20,17 @@ education:
   courses:
     - course: Ph.D. in Pattern Recognition and Intelligent System
       institution: Institute of Automation, Chinese Academy of Sciences
-      year: 2007
+      year: 2002-2007
     - course: B.E. in Automation
       institution: Civil Aviation University of China
-      year: 2002
+      year: 1998-2002
 email: ""
 superuser: false
 user_groups:
   - Researchers
 highlight_name: false
 ---
-The research interests of Prof. Bing Liu’s Lab mainly focus on the two topics :
+The research interests of Prof. Liu  Bing mainly focus on the two topics :
 
 (1) Clinical translation of multi-modal neuroimaging: here we attempt to build clinical useful biomarkers for brain disorders by integrating multi-modal neuroimaging and other omics data, and using novel artificial intelligence technologies. The objective of these studies is to identify quantitative, individualized, generalized and clinically useful imaging biomarkers for the precision diagnosis and personalized treatment of brain disorders, especially for various psychiatric disorders.
 
