@@ -1,6 +1,6 @@
 ---
 title: Liao Xiaohua
-role: M.D. of computer science
+role: Master
 avatar_filename: avatar
 social: []
 education:
