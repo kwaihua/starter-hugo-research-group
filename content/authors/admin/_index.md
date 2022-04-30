@@ -25,7 +25,7 @@ education:
       institution: Civil Aviation University of China
       year: 2002
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Researchers
 highlight_name: false
