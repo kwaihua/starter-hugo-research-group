@@ -12,7 +12,7 @@ social:
     link: mailto:bing.liu@bnu.edu.cn
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=aSBMwycAAAAJ
 organizations:
   - name: Beijing Normal University
     url: ""
