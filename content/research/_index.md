@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Research Introduction
 
 # Listing view
 view: compact
