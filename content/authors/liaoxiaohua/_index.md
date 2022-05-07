@@ -3,8 +3,6 @@ title: Liao Xiaohua
 role: Master
 avatar_filename: avatar
 social: []
-education:
-  courses: []
 superuser: false
 organizations:
   - name: Institute of Automation, Chinese Academy of Sciences
@@ -13,7 +11,7 @@ education:
     - course:  M.D. in Computer Science
       institution: Institute of Automation, Chinese Academy of Sciences
       year: 2019-2022
-    - course: B.E. in Weapons systems and launch project
+    - course: B.E. in Weapons systems and launch 
       institution: Beijing Institute of Technology of China
       year: 2015-2019
 interests:
