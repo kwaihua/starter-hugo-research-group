@@ -18,7 +18,7 @@ interests:
   - Artificial Intelligence
   - Brain Network
 user_groups:
-  - Students
+  - Alumni
 social:
   - icon: envelope
     icon_pack: fas
