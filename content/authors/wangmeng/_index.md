@@ -14,3 +14,6 @@ social:
     link: 'mailto:wangmeng2018@ia.ac.cn'
 ---
 
+          <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ $pub_type | anchorize }}">
+              {{ index $pub_types $pub_type }}
+            </a>
