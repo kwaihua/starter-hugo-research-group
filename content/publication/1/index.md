@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'FSA paper'
 authors:
   - admin
   - Robert Ford
