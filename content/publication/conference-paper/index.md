@@ -9,7 +9,7 @@ authors:
   - Wang Qi
   - Liu Bing
 doi: ""
-publication: In *Human brain mapping*
+publication: "*Human brain mapping*"
 publication_short: ""
 projects:
   - internal-project
