@@ -3,7 +3,7 @@ title: A neuroimaging biomarker for striatal dysfunction in schizophrenia
 publication_types:
   - "2"
 authors:
-  - Ang Li
+  - Li Ang
   - admin
 publication: "***Nature Medicine***"
 draft: false

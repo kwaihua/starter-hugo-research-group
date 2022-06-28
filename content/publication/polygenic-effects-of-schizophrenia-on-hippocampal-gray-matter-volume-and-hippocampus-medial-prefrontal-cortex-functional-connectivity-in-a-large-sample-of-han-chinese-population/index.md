@@ -5,7 +5,8 @@ title: Polygenic effects of schizophrenia on hippocampal gray matter volume and
 publication_types:
   - "2"
 authors:
-  - Liu Shu,admin
+  - Liu Shu
+  - admin
 publication: "***British Journal of Psychiatry***"
 draft: false
 featured: false
