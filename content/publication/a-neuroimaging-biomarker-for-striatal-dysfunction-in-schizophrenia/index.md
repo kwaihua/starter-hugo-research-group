@@ -1,11 +1,11 @@
 ---
-title: " A neuroimaging biomarker for striatal dysfunction in schizophrenia"
+title: A neuroimaging biomarker for striatal dysfunction in schizophrenia
 publication_types:
   - "2"
 authors:
   - Ang Li
-  - Bing Liu
-publication: "*Nature Medicine*"
+  - admin
+publication: "***Nature Medicine***"
 draft: false
 featured: false
 image:
