@@ -1,6 +1,6 @@
 ---
-title: Luo Yuntian
-role: Master
+title: Sun Yuqing
+role: Phd
 avatar_filename: avatar
 social: []
 superuser: false
@@ -11,6 +11,6 @@ user_groups:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:luoyuntian2019@ia.ac.cn'
+    link: 'mailto:sunyuqing2018@ia.ac.cn'
 ---
 

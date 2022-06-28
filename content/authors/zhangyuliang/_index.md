@@ -1,6 +1,6 @@
 ---
-title: Luo Yuntian
-role: Master
+title: Zhang Yuliang
+role: 	Master
 avatar_filename: avatar
 social: []
 superuser: false
@@ -11,6 +11,6 @@ user_groups:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:luoyuntian2019@ia.ac.cn'
+    link: 'mailto:zhangyuliang2018@ia.ac.cn'
 ---
 

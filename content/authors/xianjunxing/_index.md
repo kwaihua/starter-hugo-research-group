@@ -1,16 +1,16 @@
 ---
-title: Luo Yuntian
+title: Xian Junxing
 role: Master
 avatar_filename: avatar
 social: []
 superuser: false
 organizations:
-  - name: Institute of Automation, Chinese Academy of Sciences
+  - name: Beijing Normal University
 user_groups:
-  - Alumnis
+  - Students
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:luoyuntian2019@ia.ac.cn'
+    link: 'mailto:578154395@qq.com'
 ---
 
