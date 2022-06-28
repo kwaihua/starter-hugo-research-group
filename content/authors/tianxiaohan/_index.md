@@ -1,6 +1,6 @@
 ---
-title: He Yini
-role: Postdoc
+title: Tian Xiaohan
+role: Research Assistant
 avatar_filename: avatar
 social: []
 superuser: false
@@ -11,6 +11,6 @@ user_groups:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:heyini1115@gmail.com'
+    link: 'mailto:xianhan tian@bnu.edu.cn'
 ---
 
