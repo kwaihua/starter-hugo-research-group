@@ -1,11 +1,11 @@
 ---
 title: MIR137 polygenic risk is associated with schizophrenia and affects
-  functional connectivity of the dorsolateral prefrontal cortex.
+  functional connectivity of the dorsolateral prefrontal cortex
 publication_types:
   - "2"
 authors:
-  - Shu Liu
-  - Bing Liu
+  - Liu Shu
+  - Liu Bing
 publication: "***Psychological Medicine***"
 draft: false
 featured: false

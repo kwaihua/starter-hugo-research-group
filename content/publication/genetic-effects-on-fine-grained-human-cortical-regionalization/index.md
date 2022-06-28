@@ -1,5 +1,5 @@
 ---
-title: "Genetic Effects on Fine-Grained Human Cortical Regionalization. "
+title: "Genetic Effects on Fine-Grained Human Cortical Regionalization"
 publication_types:
   - "2"
 authors:

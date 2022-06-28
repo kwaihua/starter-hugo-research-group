@@ -1,6 +1,6 @@
 ---
 title: Bridging Integrator 1 (BIN1) Genotype Effects on Working Memory,
-  Hippocampal Volume and Functional Connectivity in Young Healthy Individuals.
+  Hippocampal Volume and Functional Connectivity in Young Healthy Individuals
 publication_types:
   - "2"
 authors:
