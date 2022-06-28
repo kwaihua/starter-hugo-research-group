@@ -1,6 +1,6 @@
 ---
 title: Zhang Yuliang
-role: 	Master
+role:  Master
 avatar_filename: avatar
 social: []
 superuser: false
