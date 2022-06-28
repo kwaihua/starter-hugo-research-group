@@ -1,12 +1,46 @@
+Skip to content
+Product 
+Team
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+Sign in
+Sign up
+wowchemy
+/
+wowchemy-hugo-themes
+Public
+Code
+Issues
+21
+Pull requests
+6
+Discussions
+Actions
+Projects
+1
+Security
+Insights
+wowchemy-hugo-themes/wowchemy/layouts/publication/single.html
+@mcanouil
+mcanouil feat: address Hugo v0.92 notice RE changing behaviour of .Path (#2642)
+Latest commit 97a4b87 on 4 Mar
+ History
+ 2 contributors
+@gcushen@mcanouil
+66 lines (54 sloc)  1.9 KB
+
 {{- define "main" -}}
-{{ $pub_types := partial "functions/get_pub_types" $ }}
+{{ pubtypes:=partial"functions/getpubtypes" }}
 {{ $pub_type_param := .Params.publication_types | default (slice 0) }}
 
 {{/* Convert string in form `"0"` to int (`0`) */}}
-{{ $pub_type := (int (index $pub_type_param 0)) | default 0 }}
+{{ pubtype:=(int(indexpub_type_param 0)) | default 0 }}
 
 {{/* Validate Pub Type if defined */}}
-{{ if gt $pub_type (sub (len $pub_types) 1) }}
+{{ if gt pubtype(sub(lenpub_types) 1) }}
   {{ warnf "Unknown publication type in %s" .File.Path }}
   {{ $pub_type = 0 }}
 {{ end }}
@@ -31,7 +65,7 @@
           <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication_type" }}</div>
           <div class="col-12 col-md-9">
             <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ $pub_type | anchorize }}">
-              {{ index $pub_types $pub_type }}
+              {{ index pubtypespub_type }}
             </a>
           </div>
         </div>
@@ -64,3 +98,17 @@
   </div>
 </div>
 {{- end -}}
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
