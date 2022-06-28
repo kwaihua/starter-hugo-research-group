@@ -1,6 +1,6 @@
 ---
 slides: null
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.25660
 title: Predicting brain age during typical and atypical development based on
   structural and functional neuroimaging
 publication_types:
