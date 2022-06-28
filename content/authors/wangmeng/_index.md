@@ -7,7 +7,7 @@ superuser: false
 organizations:
   - name: Institute of Automation, Chinese Academy of Sciences
 user_groups:
-  - Alumnis
+  - Alumni
 social:
   - icon: envelope
     icon_pack: fas
