@@ -13,9 +13,9 @@
 
   <a style="color: blue;">{{ $item.Title }}</a>.
   {{ if $item.Params.publication_short }}
-    {{- $item.Params.publication_short | markdownify -}}
+    {{- $item.Params.publication_short | markdownify -}},
   {{ else if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}}
+    {{- $item.Params.publication | markdownify -}},
   {{ end }}
  ({{- $item.Date.Format "2006" -}})
 
