@@ -7,7 +7,7 @@ superuser: false
 organizations:
   - name: Beijing Normal University
 user_groups:
-  - Students
+  - Post Doctors & Research Assistant
 social:
   - icon: envelope
     icon_pack: fas
