@@ -1,6 +1,6 @@
 ---
 slides: null
-url_pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.25660
+url_pdf: 
 title: Predicting brain age during typical and atypical development based on
   structural and functional neuroimaging
 publication_types:
@@ -14,7 +14,6 @@ publication_short: ""
 projects:
   - internal-project
 date: 2022-06-24T08:54:04.286Z
-publishDate: 2017-01-01T00:00:00.000Z
 ---
 
 
