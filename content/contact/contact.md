@@ -42,4 +42,10 @@ design:
   columns: '1'
 ---
 
-lxh test 123
+**opportunity**
+
+1. Job Responsibilities:
+
+(1) Engaged in brain network-related data analysis and research on fusion analysis methods with multi-omics data such as genome and transcriptome, as well as application research in brain diseases and brain development;
+
+(2) Assist the research team leader in the project development and the training of graduate students.
