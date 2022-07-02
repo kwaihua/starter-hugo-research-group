@@ -1,6 +1,5 @@
 ---
 slides: null
-url_pdf: 
 title: Predicting brain age during typical and atypical development based on
   structural and functional neuroimaging
 publication_types:
